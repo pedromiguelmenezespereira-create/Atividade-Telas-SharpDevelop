@@ -1,0 +1,8 @@
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\bin\Debug\Três Números em Ordem Decrescente.exe.config
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\bin\Debug\Três Números em Ordem Decrescente.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\bin\Debug\Três Números em Ordem Decrescente.pdb
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\obj\Debug\Três_Números_em_Ordem_Decrescente.MainForm.resources
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Três Números em Ordem Decrescente\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.pdb

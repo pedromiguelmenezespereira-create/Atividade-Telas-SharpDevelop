@@ -1,0 +1,8 @@
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\obj\Debug\maior entre três numeros.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\obj\Debug\maior_entre_três_numeros.MainForm.resources
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\obj\Debug\maior entre três numeros.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\bin\Debug\maior entre três numeros.exe.config
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\bin\Debug\maior entre três numeros.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\bin\Debug\maior entre três numeros.pdb
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\obj\Debug\maior entre três numeros.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\maior entre três numeros\maior entre três numeros\obj\Debug\maior entre três numeros.pdb

@@ -1,0 +1,8 @@
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\obj\Debug\Categoria de Nadador.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\obj\Debug\Categoria_de_Nadador.MainForm.resources
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\obj\Debug\Categoria de Nadador.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\bin\Debug\Categoria de Nadador.exe.config
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\bin\Debug\Categoria de Nadador.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\bin\Debug\Categoria de Nadador.pdb
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\obj\Debug\Categoria de Nadador.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Categoria de Nadador\Categoria de Nadador\obj\Debug\Categoria de Nadador.pdb

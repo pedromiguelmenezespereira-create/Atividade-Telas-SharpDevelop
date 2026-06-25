@@ -1,0 +1,8 @@
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\bin\Debug\Qualificação para vaga.exe.config
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\bin\Debug\Qualificação para vaga.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\bin\Debug\Qualificação para vaga.pdb
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\obj\Debug\Qualificação para vaga.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\obj\Debug\Qualificação_para_vaga.MainForm.resources
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\obj\Debug\Qualificação para vaga.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\obj\Debug\Qualificação para vaga.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Qualificação para vaga\Qualificação para vaga\obj\Debug\Qualificação para vaga.pdb
