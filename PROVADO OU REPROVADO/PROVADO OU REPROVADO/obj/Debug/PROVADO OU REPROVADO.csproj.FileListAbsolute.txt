@@ -1,0 +1,8 @@
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\obj\Debug\PROVADO OU REPROVADO.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\obj\Debug\PROVADO_OU_REPROVADO.MainForm.resources
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\obj\Debug\PROVADO OU REPROVADO.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\bin\Debug\PROVADO OU REPROVADO.exe.config
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\bin\Debug\PROVADO OU REPROVADO.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\bin\Debug\PROVADO OU REPROVADO.pdb
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\obj\Debug\PROVADO OU REPROVADO.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PROVADO OU REPROVADO\PROVADO OU REPROVADO\obj\Debug\PROVADO OU REPROVADO.pdb

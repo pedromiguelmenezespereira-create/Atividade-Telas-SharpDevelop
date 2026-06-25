@@ -1,0 +1,8 @@
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\obj\Debug\Situação do Aluno com Recuperação.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\obj\Debug\Situação_do_Aluno_com_Recuperação.MainForm.resources
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\obj\Debug\Situação do Aluno com Recuperação.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\bin\Debug\Situação do Aluno com Recuperação.exe.config
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\bin\Debug\Situação do Aluno com Recuperação.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\bin\Debug\Situação do Aluno com Recuperação.pdb
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\obj\Debug\Situação do Aluno com Recuperação.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\Situação do Aluno com Recuperação\Situação do Aluno com Recuperação\obj\Debug\Situação do Aluno com Recuperação.pdb
