@@ -1,0 +1,8 @@
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\bin\Debug\PAR OU IMPAR.01.exe.config
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\bin\Debug\PAR OU IMPAR.01.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\bin\Debug\PAR OU IMPAR.01.pdb
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\obj\Debug\PAR OU IMPAR.01.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\obj\Debug\PAR_OU_IMPAR._1.MainForm.resources
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\obj\Debug\PAR OU IMPAR.01.csproj.GenerateResource.Cache
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\obj\Debug\PAR OU IMPAR.01.exe
+C:\Users\Aluno_IOT\Desktop\Atividade Telas-SharpDevelop\PAR OU IMPAR.01\PAR OU IMPAR.01\obj\Debug\PAR OU IMPAR.01.pdb
